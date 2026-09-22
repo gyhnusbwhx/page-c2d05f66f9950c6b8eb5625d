@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5d917daa0b1d8b0ca57cf5eb",
+  "owner": "gyhnusbwhx",
+  "repo": "page-c2d05f66f9950c6b8eb5625d",
+  "title": "喵梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c2d05f66f9950c6b8eb5625d",
+      "a": "喵梯",
+      "b": "稳定全球clash加速器",
+      "entity": "喵梯",
+      "brand": "喵梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5c95dcea81a4393b01ddaf3cdbfdde4d43f8cc7f59e6efee6d2f61ccdfebe263",
+      "content": {
+        "primary_entity": "喵梯",
+        "keyword1": "喵梯",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，手机、电脑与路由器均可参考。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求挑选套餐，再依照对应客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，喵梯提供基础版、旗舰版与团队版三档选择，月付价格分别为 ¥15、¥35 和 ¥85，年付分别仅需 ¥150、¥350 和 ¥850。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备并带 IPLC 专线；团队版每月 1000GB，支持 20 台设备与 VIP 节点。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月，旗舰版 300GB/月，团队版 1000GB/月，按使用量挑选。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，适合不同人数。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供 IPLC 专线或 VIP 节点，适合游戏与高带宽场景。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端配置，三步完成订阅接入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "喵梯提供基础版、旗舰版与团队版三档订阅，覆盖个人到团队的不同需求。月付价格分别为 ¥15、¥35 和 ¥85，年付更可享优惠。选择套餐后，依客户端文档导入订阅链接即可开始使用。",
+          "AI_HERO_SUBTITLE": "喵梯订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案节省更多费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线，团队版面向多人高带宽。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、设备数量和线路需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限以及客户端适配说明。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，导入订阅链接并完成基础参数设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "喵梯套餐一目了然",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或少量设备日常浏览，旗舰版流量更多并带 IPLC 专线，适合流媒体与游戏，团队版支持 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_2": "可在手机、电脑和路由器上使用，同时在线设备数由套餐决定：基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_3": "按年付相比月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，相当于节省约两个月费用。",
+          "AI_FAQ_ANSWER_4": "可以。每个客户端有不同的订阅导入方式，按对应文档操作即可，同一订阅可在套餐允许的设备数内使用。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池，旗舰版与团队版提供更优的专线或高带宽节点，可根据使用场景选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "喵梯可以在哪些设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付会比按月付更划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅可以同时导入多个客户端吗？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路质量有区别吗？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ljmdf.cn",
+    "host": "ljmdf.cn"
+  },
+  "file_hashes": {
+    "index.html": "8587284f0a480d8de6a47a796d9804f59197c5f6553a9d509cc5607dfddbcd62",
+    "sitemap.xml": "e498254988394be901795d7ee7c9cea5bb14b603c47c0b1659bdfcd1f0187af2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "94bb7a2f3995edc7c354dac5a002b5fb37ef39a1b022077e8f62a3e2be214af4",
+    "robots.txt": "deb5f00c8fd43beb17432a15dabc29be42a20e3536806fe9d7d5a11067975d3b",
+    "8eff1db9db8e3d9c5dc31929a4bf1dd4.txt": "fff3ec3713fb3cfc631f8236600645bbeda9f8355aee768ba060fc20262ba46f"
+  },
+  "revision": "8fcc9dc4aada4e2cc3b5cd561e506b4fd5b372fb500037a90eb70644502ee16a"
+}
